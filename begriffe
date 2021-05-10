@@ -7,4 +7,8 @@ Beantwortet außerdem die Fragen:
 
 fetch: Die aktuelle Version wird geladen
 
-Push: Version in das remote Repository hochladen
+Push: Neue Version in das remote Repository hochladen
+
+Pull: Aktuelle Version wird heruntergeladen.
+
+Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".

@@ -1,7 +1,15 @@
-Notiert hier wichtige Begriffe rund um das Thema "Git", "GitHub" und "GitHub Desktop" und erläutert sie!
+﻿Notiert hier wichtige Begriffe rund um das Thema "Git", "GitHub" und "GitHub Desktop" und erläutert sie!
+
+Beantwortet außerdem die Fragen:
+1. Was bedeutet oder was ist eine Versionsverwaltung?
+2. Was ist der Unterschied zwischen Git und GitHub?
+3. Was ist das "lokale" und was ist das "remote repository"?
 
 fetch: Die aktuelle Version wird geladen
 
-Push:
-Pull: Änderungen des Repositorys herunterladen
+Push: Eine neue/ veränderte Version wird auf die "main" Version überschrieben.
+
+Pull: Aktuelle Version wird heruntergeladen.
+
+Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 

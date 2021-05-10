@@ -3,3 +3,5 @@ Notiert hier wichtige Begriffe rund um das Thema "Git", "GitHub" und "GitHub Des
 fetch: Die aktuelle Version wird geladen
 
 Push:
+Pull: Änderungen des Repositorys herunterladen
+

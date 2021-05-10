@@ -7,7 +7,7 @@ Beantwortet außerdem die Fragen:
 
 fetch: Die aktuelle Version wird geladen
 
-Push: Eine neue/ veränderte Version wird auf die "main" Version überschrieben.
+Push: Neue Version in das remote Repository hochladen
 
 Pull: Aktuelle Version wird heruntergeladen.
 

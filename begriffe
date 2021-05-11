@@ -41,7 +41,7 @@ git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdatei
 
 merge: Merge steht für das Zusammenführen von Branches
 
-branch: 
-
 merge conflict: Ein Unterschied, der zwischen zwei Dateien ensteht, die man zusammenbringen will. Ensteht, wenn zwei Personen die gleichen Zeilen bearbeiten.
                 Der Konflikt muss gelöst werden, bevor die Dateien zusammengeführt werden können.
+
+pull request: Pull-request sind vorgeschlagene Änderungen an einem Repository, die von einem Benutzer übermittelt und von den Mitarbeitern eines Repositorys akzeptiert oder abgelehnt wurden.        

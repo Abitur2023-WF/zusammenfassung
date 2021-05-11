@@ -14,3 +14,6 @@ Pull: Aktuelle Version wird heruntergeladen.
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 
 Commit: Version des Projekts
+
+merge conflict: Ein Unterschied, der zwischen zusammengeführten Dateien entsteht. Sie entstehen, wenn zwei Personen an der gleichen Zeile etwas ändern.
+                Der Konflikt muss gelöst werden, bevor die Dateien zusammengebracht werden können.

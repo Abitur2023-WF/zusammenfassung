@@ -1,19 +1,23 @@
 ﻿Notiert hier wichtige Begriffe rund um das Thema "Git", "GitHub" und "GitHub Desktop" und erläutert sie!
+Anmerkung: Bitte alphabetisch!!!
 
 Beantwortet außerdem die Fragen:
 1. Was bedeutet oder was ist eine Versionsverwaltung?
 2. Was ist der Unterschied zwischen Git und GitHub?
 3. Was ist das "lokale" und was ist das "remote repository"?
 
-branch: 
+branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen
 
-Commit: Version des Projekts
+commit: Version des Projekts
 
-fetch: Änderungen aus dem Remote Repository werden zu ihrem lokalen Arbeitszweig hinzugefügt, ohne sie zu comitten. Beim Fetching können sie die Änderungen überprüfen, bevor diese in ihren lokalen Zweig übertragen werden.
+fetch: Änderungen aus dem Remote Repository zu dem lokalen Arbeitszweig hinzufügen, ohne sie zu comitten. Beim Fetchen können die Änderungen überprüft werden, bevor sie übertragen werden.
 
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
+Man kann auch eine Pull request im originalprojekt machen, um die Fork Version auf aktuellem Stand zu halten.
 
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
+
+merge: Merge steht für das Zusammenführen von Branches
 
 public Repository: Ein public Repository ist ein öffentliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
@@ -22,8 +26,13 @@ Pull: Die aktuelle Version wird auf die lokale Version geladen.
 Push: Neue Version in das remote Repository hochladen
 
 remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
+Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+
+User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
+git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
 
 

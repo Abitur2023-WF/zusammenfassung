@@ -10,7 +10,7 @@ fetch: √Ñnderungen aus dem Remote Repository zu dem lokalen Arbeitszweig hinzuf√
 
 Push: Neue Version in das remote Repository hochladen
 
-Pull: Aktuelle Version wird heruntergeladen.
+Pull: Die aktuelle Version wird auf die lokale Version geladen.
 
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 Man kann auch eine Pull request im originalprojekt machen, um die Fork Version auf aktuellem Stand zu halten.

@@ -10,7 +10,7 @@ fetch: Änderungen aus dem Remote Repository zu dem lokalen Arbeitszweig hinzuf�
 
 Push: Neue Version in das remote Repository hochladen
 
-Pull: Aktuelle Version wird heruntergeladen.
+Pull: Die aktuelle Version wird auf die lokale Version geladen.
 
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 Man kann auch eine Pull request im originalprojekt machen, um die Fork Version auf aktuellem Stand zu halten.
@@ -44,5 +44,9 @@ merge: Merge steht für das Zusammenführen von Branches
 merge conflict: Ein Unterschied, der zwischen zwei Dateien ensteht, die man zusammenbringen will. Ensteht, wenn zwei Personen die gleichen Zeilen bearbeiten.
                 Der Konflikt muss gelöst werden, bevor die Dateien zusammengeführt werden können.
 
+<<<<<<< HEAD
 
 pull request review - Kommentare von Mitarbeitern zu einem Pull request, die die Änderung genehmigen oder weitere Änderungen anfordern, bevor der Pull request zusammengeführt wird.
+=======
+pull request: Pull-request sind vorgeschlagene Änderungen an einem Repository, die von einem Benutzer übermittelt und von den Mitarbeitern eines Repositorys akzeptiert oder abgelehnt wurden.        
+>>>>>>> 1b84798c7e7115c63225118030f1078915057ff7

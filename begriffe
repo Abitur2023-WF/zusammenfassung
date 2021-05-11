@@ -16,4 +16,9 @@ Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne
 
 Commit: Version des Projekts
 
+
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+
+
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
+

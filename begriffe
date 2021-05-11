@@ -12,6 +12,8 @@ commit: Version des Projekts
 
 fetch: Änderungen aus dem Remote Repository zu dem lokalen Arbeitszweig hinzufügen, ohne sie zu comitten. Beim Fetchen können die Änderungen überprüft werden, bevor sie übertragen werden.
 
+Pull: Die aktuelle Version wird auf die lokale Version geladen.
+
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 Man kann auch eine Pull request im originalprojekt machen, um die Fork Version auf aktuellem Stand zu halten.
 
@@ -24,16 +26,34 @@ public Repository: Ein public Repository ist ein öffentliches Repsitory, welche
 Pull: Die aktuelle Version wird auf die lokale Version geladen.
 
 Push: Neue Version in das remote Repository hochladen
+Commit: Ein Commit ist eine neue Version des Projekts. Wenn du commites wird die Version gespeichert und du kannst auch immer zu der Version zurück gehen.
+
+Außerdem sieht man in der Nachricht, was genau in diesen so genannten Schnappschuss verändert wurde.
+
+Clone: Ein Klon ins eine Kopie eines Repositorys, die auf ihrem Computer und nicht auf dem Server einer Website liegt, oder der Akt der erstellung dieser Kopie. Wenn sie einen Klon erstellen, können sie  die Dateien in ihrem bevorzugen Editor bearbeiten und Git verwenden, um ihre Änderungen zu Verfolgen ohne Online sein zu müssen. Das Repository, das sie geklont haben, ist immer noch mit der entfernten Version verbunden, so dass sie ihre lokalen Änderungen auf die entfernte Version übertragen können, um sie synchron zu halten,wenn sie online sind.
+
+public Repository: Ein public Repository ist ein öffentliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
 remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
+
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+
 public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
 
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
+
+write access: Eine Berechtigkungsebene für ein Repository, die es dem Benutzer erlaubt zu pushen, zu schreiben und Änderungen im Repository vorzunehmen.
+
+branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen
+
 User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
+
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
 
+merge conflict: Ein Unterschied, der zwischen zwei Dateien ensteht, die man zusammenbringen will. Ensteht, wenn zwei Personen die gleichen Zeilen bearbeiten.
+                Der Konflikt muss gelöst werden, bevor die Dateien zusammengeführt werden können.
 
-
+pull request: Pull-request sind vorgeschlagene Änderungen an einem Repository, die von einem Benutzer übermittelt und von den Mitarbeitern eines Repositorys akzeptiert oder abgelehnt wurden.        

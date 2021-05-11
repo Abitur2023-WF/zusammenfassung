@@ -43,3 +43,6 @@ merge: Merge steht für das Zusammenführen von Branches
 
 merge conflict: Ein Unterschied, der zwischen zwei Dateien ensteht, die man zusammenbringen will. Ensteht, wenn zwei Personen die gleichen Zeilen bearbeiten.
                 Der Konflikt muss gelöst werden, bevor die Dateien zusammengeführt werden können.
+
+
+pull request review - Kommentare von Mitarbeitern zu einem Pull request, die die Änderung genehmigen oder weitere Änderungen anfordern, bevor der Pull request zusammengeführt wird.

@@ -6,7 +6,7 @@ Beantwortet außerdem die Fragen:
 2. Was ist der Unterschied zwischen Git und GitHub?
 3. Was ist das "lokale" und was ist das "remote repository"?
 
-fetch: Änderungen aus dem Remote Repository werden zu ihrem lokalen Arbeitszweig hinzugefügt, ohne sie zu comitten. Beim Fetching können sie die Änderungen überprüfen, bevor diese in ihren lokalen Zweig übertragen werden.
+fetch: Änderungen aus dem Remote Repository zu dem lokalen Arbeitszweig hinzufügen, ohne sie zu comitten. Beim Fetchen können die Änderungen überprüft werden, bevor sie übertragen werden.
 
 Push: Neue Version in das remote Repository hochladen
 
@@ -24,4 +24,9 @@ Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Date
 public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
 
+
+User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
+git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
+
+branch: 
 

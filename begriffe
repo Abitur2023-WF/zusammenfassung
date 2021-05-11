@@ -19,17 +19,18 @@ Commit: Version des Projekts
 
 
 
-
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
+Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
 public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
-Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
 
-
-remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
 branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen
 
 User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
+
+
+merge: Merge steht für das Zusammenführen von Branches
 

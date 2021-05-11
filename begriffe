@@ -13,6 +13,7 @@ Push: Neue Version in das remote Repository hochladen
 Pull: Aktuelle Version wird heruntergeladen.
 
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
+Man kann auch eine Pull request im originalprojekt machen, um die Fork Version auf aktuellem Stand zu halten.
 
 Commit: Version des Projekts
 
@@ -28,11 +29,12 @@ public Repository: Ein public Repository ist ein öffendliches Repsitory, welche
 
 remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
+branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen
+
 User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
 
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
-branch: 
 
 
 merge: Merge steht für das Zusammenführen von Branches

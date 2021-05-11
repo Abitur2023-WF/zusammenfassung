@@ -17,6 +17,11 @@ Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne
 Commit: Version des Projekts
 
 
+
+
+
+public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
+
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
 
 

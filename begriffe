@@ -26,3 +26,5 @@ remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwend
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
 branch: 
+
+merge: Merge steht für das Zusammenführen von Branches

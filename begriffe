@@ -1,4 +1,5 @@
 ﻿Notiert hier wichtige Begriffe rund um das Thema "Git", "GitHub" und "GitHub Desktop" und erläutert sie!
+Anmerkung: Bitte alphabetisch!!!
 
 Beantwortet außerdem die Fragen:
 1. Was bedeutet oder was ist eine Versionsverwaltung?
@@ -7,9 +8,17 @@ Beantwortet außerdem die Fragen:
 
 fetch: Änderungen aus dem Remote Repository werden zu ihrem lokalen Arbeitszweig hinzugefügt, ohne sie zu comitten. Beim Fetching können sie die Änderungen überprüfen, bevor diese in ihren lokalen Zweig übertragen werden.
 
-Push: Eine neue/ veränderte Version wird auf die "main" Version überschrieben.
+Push: Neue Version in das remote Repository hochladen
 
 Pull: Aktuelle Version wird heruntergeladen.
 
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
+
+Commit: Version des Projekts
+
+
+Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+
+
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 

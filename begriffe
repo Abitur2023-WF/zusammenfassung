@@ -19,18 +19,22 @@ Commit: Ein Commit ist eine neue Version des Projekts. Wenn du commites wird die
 
 Außerdem sieht man in der Nachricht, was genau in diesen so genannten Schnappschuss verändert wurde.
 
+Clone: Ein Klon ins eine Kopie eines Repositorys, die auf ihrem Computer und nicht auf dem Server einer Website liegt, oder der Akt der erstellung dieser Kopie. Wenn sie einen Klon erstellen, können sie  die Dateien in ihrem bevorzugen Editor bearbeiten und Git verwenden, um ihre Änderungen zu Verfolgen ohne Online sein zu müssen. Das Repository, das sie geklont haben, ist immer noch mit der entfernten Version verbunden, so dass sie ihre lokalen Änderungen auf die entfernte Version übertragen können, um sie synchron zu halten,wenn sie online sind.
 
-
-
-remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
-Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
 public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
+Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+
+public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
+
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
 branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen
 
 User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
+
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
 

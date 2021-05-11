@@ -14,3 +14,28 @@ Pull: Aktuelle Version wird heruntergeladen.
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 
 Commit: Version des Projekts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clone: Ein Klon ins eine Kopie eines Repositorys, die auf ihrem Computer und nicht auf dem Server einer Website liegt, oder der Akt der erstellung dieser Kopie. Wenn sie einen Klon erstellen, können sie  die Dateien in ihrem bevorzugen Editor bearbeiten und Git verwenden, um ihre Änderungen zu Verfolgen ohne Online sein zu müssen. Das Repository, das sie geklont haben, ist immer noch mit der entfernten Version verbunden, so dass sie ihre lokalen Änderungen auf die entfernte Version übertragen können, um sie synchron zu halten,wenn sie online sind.

@@ -6,19 +6,19 @@ Beantwortet außerdem die Fragen:
 2. Was ist der Unterschied zwischen Git und GitHub?
 3. Was ist das "lokale" und was ist das "remote repository"?
 
+Commit: Version des Projekts
+
 fetch: Die aktuelle Version wird geladen
+
+Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 
 Push: Neue Version in das remote Repository hochladen
 
 Pull: Aktuelle Version wird heruntergeladen.
 
-Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
-
-Commit: Version des Projekts
-
+remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
 
 
-remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 

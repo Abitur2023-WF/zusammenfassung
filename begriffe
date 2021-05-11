@@ -13,7 +13,9 @@ Pull: Die aktuelle Version wird auf die lokale Version geladen.
 
 Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne das Originalprojekt zu "sabotieren".
 
-Commit: Version des Projekts
+Commit: Ein Commit ist eine neue Version des Projekts. Wenn du commites wird die Version gespeichert und du kannst auch immer zu der Version zurück gehen.
+
+Außerdem sieht man in der Nachricht, was genau in diesen so genannten Schnappschuss verändert wurde.
 
 public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 

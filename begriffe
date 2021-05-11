@@ -23,15 +23,15 @@ merge conflict: Ein Unterschied, der zwischen zwei Dateien ensteht, die man zusa
                 Der Konflikt muss gelöst werden, bevor die Dateien zusammengeführt werden können.
 public Repository: Ein public Repository ist ein öffentliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
-Push: Neue Version in das remote Repository hochladen
-
 Pull: Aktuelle Version wird heruntergeladen.
 
 pull request review - Kommentare von Mitarbeitern zu einem Pull request, die die Änderung genehmigen oder weitere Änderungen anfordern, bevor der Pull request zusammengeführt wird.
 
+Push: Neue Version in das remote Repository hochladen
+
 remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
-Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
+Repository: Ein Ordner des Projekts. Es sind alle Projektdateien enthalten und der Versionsverlauf jeder Datei wird gespeichert.
 
 User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
 

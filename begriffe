@@ -1,5 +1,4 @@
 ﻿Notiert hier wichtige Begriffe rund um das Thema "Git", "GitHub" und "GitHub Desktop" und erläutert sie!
-Anmerkung: Bitte alphabetisch!!!
 
 Beantwortet außerdem die Fragen:
 1. Was bedeutet oder was ist eine Versionsverwaltung?
@@ -16,18 +15,15 @@ Fork: Ein Clone von dem Originalprojekt, indem man Sachen ausprobieren kann ohne
 
 git: Git ist ein Open-Source-Programm zum Verfolgen von Änderungen in Textdateien. Es wurde vom Autor des Linux-Betriebssystems geschrieben und ist die Kerntechnologie, auf der GitHub, die Sozial- und Benutzeroberfläche, aufgebaut ist.
 
-public Repository: Ein public Repository ist ein öffendliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
+public Repository: Ein public Repository ist ein öffentliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
+
+Pull: Die aktuelle Version wird auf die lokale Version geladen.
 
 Push: Neue Version in das remote Repository hochladen
-
-Pull: Aktuelle Version wird heruntergeladen.
 
 remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
 Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Datei.
-
-
-
 
 
 

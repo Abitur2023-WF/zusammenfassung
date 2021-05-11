@@ -27,4 +27,4 @@ Repository: Ein Ordner des Projekts und speichert den Versionsverlauf jeder Date
 
 remote Repository: Ein Repository, das zur Verfolgung desselben Projekts verwendet wird, sich aber am einem anderen Ort befindet.
 
-branch: 
+branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen

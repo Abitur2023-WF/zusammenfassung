@@ -6,9 +6,12 @@ Beantwortet außerdem die Fragen:
 
 branch: Ein Branch ist eine Abzweigung, mit branches kann man ein Projekt unterteilen
 
-Clone: Ein Klon ins eine Kopie eines Repositorys, die auf ihrem Computer und nicht auf dem Server einer Website liegt, oder der Akt der erstellung dieser Kopie. Wenn sie einen Klon erstellen, können sie  die Dateien in ihrem bevorzugen Editor bearbeiten und Git verwenden, um ihre Änderungen zu Verfolgen ohne Online sein zu müssen. Das Repository, das sie geklont haben, ist immer noch mit der entfernten Version verbunden, so dass sie ihre lokalen Änderungen auf die entfernte Version übertragen können, um sie synchron zu halten,wenn sie online sind.
+Clone: Ein Klon ins eine Kopie eines Repositorys, die auf ihrem Computer und nicht auf dem Server einer Website liegt, oder der Akt der erstellung dieser Kopie. 
+Wenn sie einen Klon erstellen, können sie  die Dateien in ihrem bevorzugen Editor bearbeiten und Git verwenden, um ihre Änderungen zu Verfolgen ohne Online sein zu müssen. 
+Das Repository, das sie geklont haben, ist immer noch mit der entfernten Version verbunden, so dass sie ihre lokalen Änderungen auf die entfernte Version übertragen können, um sie synchron zu halten,wenn sie online sind.
 
 Commit: Ein Commit ist eine neue Version des Projekts. Wenn du commites wird die Version gespeichert und du kannst auch immer zu der Version zurück gehen.
+Außerdem sieht man in der Nachricht, was genau in diesen so genannten Schnappschuss verändert wurde.
 
 fetch: Änderungen aus dem Remote Repository zu dem lokalen Arbeitszweig hinzufügen, ohne sie zu comitten. Beim Fetchen können die Änderungen überprüft werden, bevor sie übertragen werden.
 
@@ -23,7 +26,9 @@ merge conflict: Ein Unterschied, der zwischen zwei Dateien ensteht, die man zusa
                 Der Konflikt muss gelöst werden, bevor die Dateien zusammengeführt werden können.
 public Repository: Ein public Repository ist ein öffentliches Repsitory, welches von jedem angesehen werden kann, auch von Leuten, welche kein GitHub Account haben.
 
-Pull: Aktuelle Version wird heruntergeladen.
+Pull:  Die aktuelle Version wird auf die lokale Version geladen.
+
+pull request: Pull-request sind vorgeschlagene Änderungen an einem Repository, die von einem Benutzer übermittelt und von den Mitarbeitern eines Repositorys akzeptiert oder abgelehnt wurden.  
 
 pull request review - Kommentare von Mitarbeitern zu einem Pull request, die die Änderung genehmigen oder weitere Änderungen anfordern, bevor der Pull request zusammengeführt wird.
 
@@ -36,6 +41,3 @@ Repository: Ein Ordner des Projekts. Es sind alle Projektdateien enthalten und d
 User: Menschen mit einem persönlichen GitHub Account. Ein User kann öffentlicher und private Repositories haben und Organisationen beitreten.
 
 write access: Eine Berechtigkungsebene für ein Repository, die es dem Benutzer erlaubt zu pushen, zu schreiben und Änderungen im Repository vorzunehmen.
-
-
-Außerdem sieht man in der Nachricht, was genau in diesen so genannten Schnappschuss verändert wurde. // Von wem ist das?
